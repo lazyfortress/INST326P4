@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Snippet1",
+        "code": "print(\"Hello\")\n# Basic print statement here",
+        "created_at": "2024-05-12 01:07:08.796693",
+        "edit_history": [
+            {
+                "timestamp": "2024-05-12 01:10:02.587113",
+                "changes": {
+                    "code": "print(\"Hello\")\n# Basic print statement here"
+                }
+            }
+        ]
+    }
+]
